@@ -1,0 +1,6 @@
+{
+  "name": "Clarity Chat",
+  "description": "A modern, clean AI assistant web application for answering general questions with real-time AI responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
